@@ -50,7 +50,7 @@
                         <div claas="form-group mb-3 ">
                             <label class="font-weight-bold">Contraseña<span class="text-danger
                                 ">*</span></label>
-                            <input con = "input" type="password" class="form-control" placeholder="tu Contrasena">
+                            <input con = "input" type="password" class="form-control" placeholder="tu Contrasena"maxlength="10">
                             <p con="erro=warning" hidden>Max 10 caracters </p>
                         </div> 
                         <div class="form-group mb-5">
